@@ -1,4 +1,7 @@
 package job4j.tictactoe;
+/**
+ * класс отвечает за клетку на поле, пустая она или нет.
+ */
 
 import javafx.scene.shape.Rectangle;
 
